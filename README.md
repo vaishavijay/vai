@@ -1,4 +1,4 @@
-# Welcome To My Github Page!
+# Vaishavi Jayashankar
 
 # Week 1: 
 
@@ -10,7 +10,8 @@ I can use tech to hep organize resources to form positive concrete study habits,
 
 **1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing**
 
-[answer]
+Two advantages to computing is speed and accuracy in any procedure carried out by a program, piece of technology, etc, but this speed and accuracy depends highly on th procedures or processes used. If the procedure to carry out something is wrong, then the result will be wrong. This can be bad if you're using a procedure not knowing it was flawed and applying it to multiple parts for a program. In addition, storage is much more effecient. However, this can be bad if data is not backed up somewhere such as an external drive, so lots of data has a risk of being lost, corrupted, or damaged.
+
 
 **2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?**
 
