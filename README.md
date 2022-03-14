@@ -1,4 +1,7 @@
-# Vaishavi Jayashankar
+# Vaishavi Jayashankar, APCSP Period 5
+
+### Table Of Contents:
+Week | [1](https://github.com/vaishavijay/vaishavijay.github.io/edit/main/README.md#week-) | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
 
 # Week 1: 
 
@@ -30,14 +33,15 @@ Something someone who is empowered could do is help get any needed resources som
 
 Red tape blocking is digital empowerment because it encourages privacy, security, and online saftey so it is safe for everyone.
 
-## Data Structures Project
+# Data Structures Project
 
 Link to notes: __________
+
 Data Structures Project: https://replit.com/@vaishavijay/Cafe-Menu
 * Café Menu: (allows user to choose between drinks and pastries)
 * Boat Animation: https://replit.com/@vaishavijay/vaishavijay#main.py
 
-Code Snippets + Learnings: 
+### Code Snippets + Learnings: 
 
     print("Welcome to the Café! What would you like to order?")
         def print_menu1():
@@ -47,7 +51,7 @@ Code Snippets + Learnings:
             print('Exit ' )
             runOptions()
 
-(Prints out options)
+The above code prints out options for the user.
 
     def hot():
         print('You chose \'Hot Coffee\'')
@@ -56,7 +60,7 @@ Code Snippets + Learnings:
     def past():
         print('You chose \'Pastries\'')
 
-(Defines variables and shows what the program will respond to the user with after they make their selection)
+The above code defines variables and shows what the program will respond to the user with after they make their selection.
 
     while True:
         try:
@@ -76,11 +80,50 @@ Code Snippets + Learnings:
         except ValueError:
             print('Invalid input. Please enter an integer input.')
 
-(Choice menu)
+The above code displays the choice menu. The selection of the number 1-4 that the user makes determines what variable the program proceeds to, to which selected text will be displayed (as seen above).
 
         if __name__=='__main__':
            # print_menu1()
             print_menu2()
 
-(Allows code/menu to run overall)
+The defined code allows code/menu to run overall.
+
+# Create Task
+
+### Project - [4-Function Calculator](https://docs.google.com/document/d/1ihcfASxU-qed3BZCdALNmFjTqxmxcIAFpRq286g-K6c/edit?usp=sharing)
+
+* Details - Running currently in project (Home -> Subject List -> Math Calculator) 
+
+* [**Written Response**](https://docs.google.com/document/d/1-cEOgEqU7CdsWWhsyQlTJNcKnc2usHczHN845HUrJl4/edit)
+
+* [**Create Task Video**](https://drive.google.com/file/d/1__l-X63cNrEr4FOH9hwNYXpQ8KkSDkqX/view?usp=sharing)
+
+* [**Notes**](https://docs.google.com/document/d/1Avc5kdhr4JB_pN7sum7et9n1Zrrovus6btT_LmoVAKU/edit?usp=sharing)
+
+
+## Create Task Guidelines
+
+**Instructions For Input:**
+
+* the User is going to be inputting functions to calculate by pressing buttons that correspond with certain numbers or calculative functions (i.e addition, subtraction, multiplication, division)
+
+**Use of at least one list (or another collection type) to represent a collection of data that is stored and used to manage program complexity and help fulfill the program’s purpose**
+
+* Calculations will be stored in an array
+
+**At least one procedure that contributes to the program’s intended purpose, where you have defined: the procedure’s name, the return type (if necessary), one or more parameters, etc.**
+
+* The procedure will take in user input and calculate integers. If a user is going to be typing in multiple numbers at a time, the procedure backs up each number into the form of a string so that the numbers don't add up to one another. This will allow the user to calculate larger numbers.
+
+**An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure**
+
+* It will use sequencing in the procedure since each piece of code happens one after another
+
+**Calls To Your Student-Developed Procedure**
+
+* will be a student-developed procedure that saves answers for calculation as a variable and by using arrays and multiple variables, the program will display the answers of the last 6 calculations the user makes
+
+**Instructions for output (tactile, audible, visual, or textual) based on input and program functionality**
+
+* Calculations will be displayed on the screen per calculation the user makes (visual output aka calculations that the user initiates)
 
