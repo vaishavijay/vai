@@ -35,7 +35,14 @@ Red tape blocking is digital empowerment because it encourages privacy, security
 
 # Data Structures Project
 
-Link to notes: __________
+### Notes: 
+
+The digital divide is the name of the divide between differing access to the internet across socioeconomic, geographic, or demographic regions, such as between developing and first world countries. Some places have limited access to computers and websites. The internet may be used to protect and advocate for the government in these places. This divide affects both individuals and groups, and raises equity issues. 
+
+Computing biases are biases written into computer code that can reflect the biases of the programmer. These biases can be embedded into any layer of software development. Programmers should take action to avoid introducing these biases whenever possible. This can include gearing towards a particular audience, or Netflix biasing towards showing their own shows.
+Crowdsourcing is the process of enlisting the service of the crowd, large numbers of people, with or without notifying them. This could be things such as getting data from large amounts of people, or citizen science projects where many many people collaborate. 
+Computers can raise legal or ethical concerns regarding copyright.
+User data must be stored securely.
 
 Data Structures Project: https://replit.com/@vaishavijay/Cafe-Menu
 * Café Menu: (allows user to choose between drinks and pastries)
