@@ -29,3 +29,58 @@ Something someone who is empowered could do is help get any needed resources som
 **3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?**
 
 Red tape blocking is digital empowerment because it encourages privacy, security, and online saftey so it is safe for everyone.
+
+## Data Structures Project
+
+Link to notes: __________
+Data Structures Project: https://replit.com/@vaishavijay/Cafe-Menu
+* Café Menu: (allows user to choose between drinks and pastries)
+* Boat Animation: https://replit.com/@vaishavijay/vaishavijay#main.py
+
+Code Snippets + Learnings: 
+      print("Welcome to the Café! What would you like to order?")
+        def print_menu1():
+             print('Hot Coffee' )
+            print('Iced Coffee' )
+           print('Pastries' )
+           print('Exit ' )
+            runOptions()
+
+(Prints out options)
+
+def hot():
+    print('You chose \'Hot Coffee\'')
+
+def cold():
+    print('You chose \'Iced Coffee\'')
+
+def past():
+    print('You chose \'Pastries\'')
+
+(Defines variables)
+
+    while True:
+        try:
+            option = int(input('Please enter your choice 1-4: '))
+            if option == 1:
+                hot()
+            elif option == 2:
+                cold()
+            elif option == 3:
+                past()
+            # Exit menu    
+            elif option == 4:  
+                print('Thank you for visiting our café! Good Bye...')
+                exit() # exit out of the (infinite) while loop
+            else:
+                print('Invalid option. Please enter a number between 1 and 4.')
+        except ValueError:
+            print('Invalid input. Please enter an integer input.')
+(Choice menu)
+
+        if __name__=='__main__':
+           # print_menu1()
+            print_menu2()
+
+Allows code/menu to run overall
+
