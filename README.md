@@ -3,7 +3,7 @@
 ### Table Of Contents:
 Week | [1](https://github.com/vaishavijay/vaishavijay.github.io/edit/main/README.md#week-) | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
 
-# Week 1: 
+# Week 1: ( [Review Ticket](https://github.com/vaishavijay/pain.github.io/issues/1) )
 
 ### What can I do with Tech to improve mine or others education? 
 
