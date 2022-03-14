@@ -20,12 +20,12 @@ While there are many benefits to technology such as efficiency, speediness, and 
 
 **1. How does someone empower themself in a digital world?**
 
-[answer]
+Someone can empower themselves in a digital world by bringing awareness to areas where technology is not as prominent in the world (rural areas, no wifi, not enough resources, etc) to build and support others.
 
 **2. How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.**
 
-[answer]
+Something someone who is empowered could do is help get any needed resources someone who is not empowered. At Del Norte HS, if someone does not have access to a personal device, for example, I could help them get a school chromebook and reccomend some places with free public wifi, depending on their needs and accessability. I could also help them get in contact with an adult in the school who can help them further with any assistance they may need.
 
 **3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?**
 
-[answer]
+Red tape blocking is digital empowerment because it encourages privacy, security, and online saftey so it is safe for everyone.
