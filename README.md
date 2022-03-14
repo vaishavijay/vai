@@ -38,26 +38,25 @@ Data Structures Project: https://replit.com/@vaishavijay/Cafe-Menu
 * Boat Animation: https://replit.com/@vaishavijay/vaishavijay#main.py
 
 Code Snippets + Learnings: 
-      print("Welcome to the Café! What would you like to order?")
+
+    print("Welcome to the Café! What would you like to order?")
         def print_menu1():
-             print('Hot Coffee' )
+            print('Hot Coffee' )
             print('Iced Coffee' )
-           print('Pastries' )
-           print('Exit ' )
+            print('Pastries' )
+            print('Exit ' )
             runOptions()
 
 (Prints out options)
 
-def hot():
-    print('You chose \'Hot Coffee\'')
+    def hot():
+        print('You chose \'Hot Coffee\'')
+    def cold():
+        print('You chose \'Iced Coffee\'')
+    def past():
+        print('You chose \'Pastries\'')
 
-def cold():
-    print('You chose \'Iced Coffee\'')
-
-def past():
-    print('You chose \'Pastries\'')
-
-(Defines variables)
+(Defines variables and shows what the program will respond to the user with after they make their selection)
 
     while True:
         try:
@@ -76,11 +75,12 @@ def past():
                 print('Invalid option. Please enter a number between 1 and 4.')
         except ValueError:
             print('Invalid input. Please enter an integer input.')
+
 (Choice menu)
 
         if __name__=='__main__':
            # print_menu1()
             print_menu2()
 
-Allows code/menu to run overall
+(Allows code/menu to run overall)
 
