@@ -1,5 +1,4 @@
 [Test Prep](https://vaishavijay.github.io/testprep) | [Data Structures](https://vaishavijay.github.io/datastructures) | [Create Task](https://vaishavijay.github.io/createtask)
-|----|----|----|
 
 # Week 1: ( [Review Ticket](https://github.com/vaishavijay/pain.github.io/issues/1) )
 
