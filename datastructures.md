@@ -1,9 +1,5 @@
-## vaishavijay.github.io Table Of Contents:
-[Test Prep](https://vaishavijay.github.io/testprep)
-
-[Data Structures Project](https://vaishavijay.github.io/datastructures)
-
-[Create Task](https://vaishavijay.github.io/createtask)
+[Test Prep](https://vaishavijay.github.io/testprep) | [Data Structures](https://vaishavijay.github.io/datastructures) | [Create Task](https://vaishavijay.github.io/createtask)
+|----|----|----|
 
 
 # Data Structures Project
