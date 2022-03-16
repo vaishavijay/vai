@@ -1,3 +1,10 @@
+## vaishavijay.github.io Table Of Contents:
+[Test Prep](https://vaishavijay.github.io/testprep)
+
+[Data Structures Project](https://vaishavijay.github.io/datastructures)
+
+[Create Task](https://vaishavijay.github.io/createtask)
+
 # Week 1: ( [Review Ticket](https://github.com/vaishavijay/pain.github.io/issues/1) )
 
 ### What can I do with Tech to improve mine or others education? 
