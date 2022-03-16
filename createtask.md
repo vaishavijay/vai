@@ -1,3 +1,10 @@
+## vaishavijay.github.io Table Of Contents:
+[Test Prep](https://vaishavijay.github.io/testprep)
+
+[Data Structures Project](https://vaishavijay.github.io/datastructures)
+
+[Create Task](https://vaishavijay.github.io/createtask)
+
 # Create Task
 
 ### Project - [4-Function Calculator](https://docs.google.com/document/d/1ihcfASxU-qed3BZCdALNmFjTqxmxcIAFpRq286g-K6c/edit?usp=sharing)
