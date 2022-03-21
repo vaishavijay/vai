@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-# Data Structures Project
+# Week 1: Data Structures 
 
 ### Notes: 
 
