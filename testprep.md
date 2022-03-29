@@ -1,6 +1,36 @@
 {% include navigation.html %}
 
-# Week 1: ( [Review Ticket](https://github.com/vaishavijay/pain.github.io/issues/1) )
+# Week 2: 5.5 - 5.6
+
+## 5.5: Legal and Ethical Concerns
+
+**Make a license for your personal and Team project. Document license you picked and why.When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.**
+
+The GitHub license we chose was Creative Commons Zero v1.0 Universal. With CC0 license we waive copyright interest which means we can’t make money of it. For users, using our code in Github is free(cost of free). By giving up copyright interest  we can make our project has a wider reach. If we choose other licenses, the user may not use our project because the cost is not free and will not share our project with their friends, family, co-worker, etc. This project we made is our first try, so the goal of this project is to gain more influence as we can, and to gain money is not necessarily our first goal. 
+
+
+-----------------------------
+
+# Week 1: 5.3 - 5.4
+
+## 5.3 TPT: Computer Bias
+
+**HP Computers Are Racist Discussion:**
+
+The individual in the video believes this was intentional but I don't think it was intentional, but rather due to a general lack of diversity and representation when creating the machine algorithmn. Nonetheless, this is extremely harmful as training a computer model to regignize Eurocentric features more frequently than other POC facial traits. This should be corrected. To produce a better outcome to regignize a wide range of faces, the machine learning models should be trained with a diverse amount of faces even in various lightings to prevent this form of discrimination, wether intentional or unintentional, for good.
+
+## 5.4 TPT: Crowdsourcing
+
+**CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?**
+A croudsource idea can be a public forum where AP students can post their past notes, discussions, resources, studying meathods, and more so eveyone can learn good study habits from eachother.
+
+**What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?**
+
+A croudsource idea can be a public forum where AP students can post their past notes, discussions, resources, studying meathods, and more so eveyone can learn good study habits from eachother. This is a potential idea for another project, but we could implement a similar public forum where students share ways they can better their mental health.
+
+-----------------------------
+
+# Week 0: 5.1 - 5.2
 
 ### What can I do with Tech to improve mine or others education? 
 
