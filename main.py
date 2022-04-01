@@ -1,9 +1,8 @@
 # menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
-import loopy
-import mathpy
-import funcy
+
+import src.week0.cafemenu
 import patterns
 
 
@@ -11,17 +10,13 @@ import patterns
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
-main_menu = [
-    ["Stringy", "stringy.py"],
-    ["Listy", "listy.py"], fibonacci matrix menu plindrome tree
-    ["Loopy", loopy.main],
-]
+main_menu = []
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu = [
-    ["Factors", mathpy.factors],
-    ["GCD", mathpy.gcd],
+    ["Matrix", matrix.mat],
+    ["Lists", lists.rrr],
     ["LCM", mathpy.lcm],
     ["Primes", mathpy.primes],
 ]
