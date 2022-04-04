@@ -1,30 +1,23 @@
-# menuy.py - function style menu
-# Imports typically listed at top
-# each import enables us to use logic that has been abstracted to other files and folders
+from src.week0 import animation, matrix, cafemenu, swap
+from src.week1 import fibonacci, listsnloops
+from src.week2 import factorial, lcm
 
-import src.week0.cafemenu
-import patterns
-
-
-# Main list of [Prompts, Actions]
-# Two styles are supported to execute abstracted logic
-# 1. file names will be run by exec(open("filename.py").read())
-# 2. function references will be executed directly file.function()
 main_menu = []
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
-sub_menu = [
-    ["Matrix", matrix.mat],
-    ["Lists", lists.rrr],
-    ["LCM", mathpy.lcm],
-    ["Primes", mathpy.primes],
+math_sub_menu = [
+    ["Number Swap", swap.swap],
+    ["Matrix", matrix.matrix],
+    ["Fibonacci", fibonacci.fibonacci],
+    ["Factorial", factorial.factorial],
+    ["LCM Calculator", lcm.lcm]
 ]
 
 patterns_sub_menu = [
-    ["Patterns", "patterns.py"],
-    ["PreFuncy", "prefuncy.py"],
-    ["Funcy", funcy.ship],
+    ["Cafe Menu", cafemenu.print_menu1],
+    ["InfoDB Lists + Loops", listsnloops.functionname],
+    ["Pyramid Animation", animation.pyramid],
 ]
 
 # Menu banner is typically defined by menu owner
@@ -38,8 +31,8 @@ banner = f"\n{border}\nPlease Select An Option\n{border}"
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Math", submenu])
-    menu_list.append(["Patterns", patterns_submenu])
+    menu_list.append(["Math", math_sub_menu])
+    menu_list.append(["Patterns", patterns_sub_menu])
     buildMenu(title, menu_list)
 
 # def submenu
@@ -47,7 +40,7 @@ def menu():
 # sub_menu works similarly to menu()
 def submenu():
     title = "Function Submenu" + banner
-    buildMenu(title, sub_menu)
+    buildMenu(title, math_sub_menu)
 
 def patterns_submenu():
     title = "Function Submenu" + banner

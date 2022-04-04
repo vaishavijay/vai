@@ -50,6 +50,7 @@ def runOptions():
         except ValueError:
             print('Invalid input. Please enter an integer input.')
 
+
 if __name__=='__main__':
     # print_menu1()
-    print_menu2()
+    print_menu1()
