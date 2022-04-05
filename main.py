@@ -45,6 +45,7 @@ def patterns_menu():
 
 def buildMenu(banner, options):
     # header for menu
+    global action
     print(banner)
     # build a dictionary from options
     prompts = {0: ["Exit", None]}

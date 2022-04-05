@@ -14,5 +14,3 @@ num2 = 50
 print(str(lcm(num1, num2)))
 # print("The L.C.M. is", compute_lcm(num1, num2))
 
-if __name__ == "__main__":
-    lcm()

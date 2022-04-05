@@ -69,7 +69,7 @@ def driver():
     print("While loop")
     while_loop()  # requires initial index to start while
     print("Recursive loop")
-    recursive_loop()  # requires initial index to start recursion
+    recursive_loop0()  # requires initial index to start recursion
 
 
 if __name__ == "__main__":
