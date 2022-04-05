@@ -1,6 +1,5 @@
 
 # Hack 1: InfoDB lists
-from src.misc.misc import recursive_loop
 
 InfoDb = []
 # List with dictionary records placed in a list

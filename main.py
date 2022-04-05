@@ -3,10 +3,7 @@ from src.week1 import fibonacci, listsnloops
 from src.week2 import factorial, lcm
 
 main_menu = []
-
-# Submenu list of [Prompt, Action]
-# Works similarly to main_menu
-math_sub_menu = [
+math_menu = [
     ["Number Swap", swap.swap],
     ["Matrix", matrix.matrix],
     ["Fibonacci", fibonacci.fibonacci],
@@ -14,42 +11,47 @@ math_sub_menu = [
     ["LCM Calculator", lcm.lcm]
 ]
 
-patterns_sub_menu = [
+patterns_menu = [
     ["Cafe Menu", cafemenu.print_menu1],
-    ["InfoDB Lists + Loops", listsnloops.functionname],
     ["Pyramid Animation", animation.pyramid],
 ]
 
-# Menu banner is typically defined by menu owner
-border = "=" * 25
-banner = f"\n{border}\nPlease Select An Option\n{border}"
+data_menu = [
+    ["For Loop", listsnloops.for_loop],
+    ["While Loop", listsnloops.while_loop],
+    ["Recursive Loop", listsnloops.recursive_loop0],
+]
 
-# def menu
-# using main_menu list:
-# 1. main menu and submenu reference are created [Prompts, Actions]
-# 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
+# Menu banner is typically defined by menu owner
+border = "=" * 20
+banner = f"\n{border}\n Please Select An Option \n{border}"
+
+
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Math", math_sub_menu])
-    menu_list.append(["Patterns", patterns_sub_menu])
+    menu_list.append(["Math", math_menu])
+    menu_list.append(["Patterns", patterns_menu])
+    menu_list.append(["Data", data_menu])
     buildMenu(title, menu_list)
 
-# def submenu
-# using sub menu list above:
-# sub_menu works similarly to menu()
-def submenu():
-    title = "Function Submenu" + banner
-    buildMenu(title, math_sub_menu)
 
-def patterns_submenu():
-    title = "Function Submenu" + banner
-    buildMenu(title, patterns_sub_menu)
+def math_menu():
+    title = "Math Submenu" + banner
+    buildMenu(title, math_menu)
+
+
+def patterns_menu():
+    title = "Patterns Submenu" + banner
+    buildMenu(title, patterns_menu)
+
+
+def data_menu():
+    title = "Data Submenu" + banner
+    buildMenu(title, data_menu)
 
 def buildMenu(banner, options):
-    # header for menu
     print(banner)
-    # build a dictionary from options
     prompts = {0: ["Exit", None]}
     for op in options:
         index = len(prompts)

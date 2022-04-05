@@ -1,4 +1,4 @@
-def tree():
+def pyramid():
     n = int(input("How tall would you like your pyramid to be?: "))
     p = n - 1
     for i in range(0, n):
@@ -10,4 +10,4 @@ def tree():
         print(" ")
 
 if __name__ == "__main__":
-    tree()
+    pyramid()
