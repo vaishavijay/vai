@@ -1,6 +1,5 @@
 from math import factorial
 
-
 class Factorial:
 
     def factorial(self, n):

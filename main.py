@@ -1,30 +1,28 @@
-from src.week0 import animation, matrix, cafemenu, swap
-from src.week1 import fibonacci, listsnloops
-from src.week2 import factorial, lcm
+import src.week0.animation
+import src.week0.cafemenu
+import src.week0.matrix
+import src.week0.swap
+import src.week1.fibonacci
+import src.week1.infodb
+import src.week2.lcm
 
 main_menu = []
 math_menu = [
-    ["Number Swap", swap.swap],
-    ["Matrix", matrix.matrix],
-    ["Fibonacci", fibonacci.fibonacci],
-    ["Factorial", factorial.factorial],
-    ["LCM Calculator", lcm.lcm]
+    ["Number Swap", src.week0.swap.swap],
+    ["Matrix", src.week0.matrix.matrix],
+    ["Fibonacci", src.week1.fibonacci.fibonacci],
+    ["LCM Calculator", src.week2.lcm.lcm]
 ]
 
 patterns_menu = [
-    ["Cafe Menu", cafemenu.print_menu1],
-    ["Pyramid Animation", animation.pyramid],
-]
-
-data_menu = [
-    ["For Loop", listsnloops.for_loop],
-    ["While Loop", listsnloops.while_loop],
-    ["Recursive Loop", listsnloops.recursive_loop0],
+    ["Cafe Menu", src.week0.cafemenu.print_menu1],
+    ["Pyramid Animation", src.week0.animation.pyramid],
+    ["InfoDB Lists/Loops", src.week1.infodb.driver],
 ]
 
 # Menu banner is typically defined by menu owner
-border = "=" * 20
-banner = f"\n{border}\n Please Select An Option \n{border}"
+border = "=" * 25
+banner = f"\n{border}\nPlease Select An Option\n{border}"
 
 
 def menu():
@@ -32,7 +30,6 @@ def menu():
     menu_list = main_menu.copy()
     menu_list.append(["Math", math_menu])
     menu_list.append(["Patterns", patterns_menu])
-    menu_list.append(["Data", data_menu])
     buildMenu(title, menu_list)
 
 
@@ -46,12 +43,10 @@ def patterns_menu():
     buildMenu(title, patterns_menu)
 
 
-def data_menu():
-    title = "Data Submenu" + banner
-    buildMenu(title, data_menu)
-
 def buildMenu(banner, options):
+    # header for menu
     print(banner)
+    # build a dictionary from options
     prompts = {0: ["Exit", None]}
     for op in options:
         index = len(prompts)
@@ -90,7 +85,6 @@ def buildMenu(banner, options):
         # traps all other errors
         print(f"Invalid choice: {choice}")
     # end validation try
-
     buildMenu(banner, options)  # recursion, start menu over again
 
 

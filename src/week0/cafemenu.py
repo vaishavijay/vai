@@ -53,4 +53,4 @@ def runOptions():
 
 if __name__=='__main__':
     # print_menu1()
-    print_menu1()
+    runOptions()
