@@ -8,6 +8,31 @@
 
 The GitHub license we chose was Creative Commons Zero v1.0 Universal. With CC0 license we waive copyright interest which means we can’t make money of it. For users, using our code in Github is free(cost of free). By giving up copyright interest  we can make our project has a wider reach. If we choose other licenses, the user may not use our project because the cost is not free and will not share our project with their friends, family, co-worker, etc. This project we made is our first try, so the goal of this project is to gain more influence as we can, and to gain money is not necessarily our first goal. 
 
+## 5.6: 
+
+**Describe PII you have seen on project in CompSci Principles.**
+
+PII can be seen on my past projects's About Pages, which commonly list information about team members.
+
+**What are your feelings about PII and your exposure?**
+
+I believe my exposure is pretty secure. On my Social Media, for example, my things are all very secure as I have privacy settings enabled on them. As long as all people take precautions I believe it may not a bad thing.
+
+**Describe good and bad passwords? What is another step that is used to assist in authentication.**
+
+Good passwords are descriptive and hard to guess, typically wordy and varying in capitalization, numbers, and special characters. Bad passwords are short and/or easy to guess. 2-step authentication through a phone or email can assist with further security in authentication.
+
+**Try to describe Symmetric and Asymmetric encryption.**
+
+Symmetric encryption uses a key to which the same key can be used to encript data, whereas in asymetric encryption, the emcription process is slower but more secure as there is more to its process.
+
+**Provide and example of encryption we used in deployment.**
+
+In deployment, one may be asked for some kind of authorization or password, which would be more secure with asymetric encyption, though it may use both.
+
+**Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.**
+
+When I first got my email account in elementary school, I would be more intruiged to open spam emails which would use phishing tactics. Other phishing techniqyes enclude installing software, clicking attachments, whaling, and more. 
 
 -----------------------------
 
