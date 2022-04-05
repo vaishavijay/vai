@@ -1,7 +1,4 @@
-from math import factorial
-
-class Factorial:
-
+class Fact:
     def factorial(self, n):
         f = 1
         for i in range(1, n + 1):
@@ -9,11 +6,13 @@ class Factorial:
         return f
 
 
-n = int(input("What number would you like to find the factorial of?:"))
+print("Enter a Number: ", end="")
+num = int(input())
 
-obj = Factorial()
-f = obj.fact(n)
-print("The factorial is:", f)
+ob = Fact()
+print("\nFactorial of", num, "=", ob.factorial(num))
+
+#help - https://codescracker.com/python/program/python-program-find-factorial-of-number.htm
 
 if __name__ == "__main__":
-    factorial()
+    Fact()

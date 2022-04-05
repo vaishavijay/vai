@@ -1,10 +1,9 @@
 # lcm - least common multiple
-def lcm(num1, num2):
-    if num1 > num2:
-        num1, num2 = num2, num1
-
-    for x in range(num1, 0, -1):
-        if num1 % x == 0 and num2 % x == 0:
+def lcm(x, y):
+    if x > y:
+        x, y = y, x
+    for x in range(x, 0, -1):
+        if x % x == 0 and y % x == 0:
             return x
 
 
@@ -13,4 +12,3 @@ num2 = 50
 
 print(str(lcm(num1, num2)))
 # print("The L.C.M. is", compute_lcm(num1, num2))
-

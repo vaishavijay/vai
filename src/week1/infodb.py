@@ -50,8 +50,7 @@ def while_loop():
 
 ## hack 2c : def recursive_loop(0)
 # recursion simulates loop incrementing on each call (n + 1) until exit condition is met
-def recursive_loop0(): # Pass an argument and sometimes do not pass an argument, so I just remove all the arguments - Gigi Guan
-    #Those that already have a function, then I made a new one without it and call if recursively - Gigi Guan
+def recursive_loop0():
     n = 0
     recursive_loop1(n)
     return
