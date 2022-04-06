@@ -2,19 +2,17 @@ import src.week0.animation
 import src.week0.cafemenu
 import src.week0.matrix
 import src.week0.swap
-import src.week1.fibonacci
 import src.week1.infodb
 import src.week2.lcm
 
 main_menu = []
-math_menu = [
+mathmenu = [
     ["Number Swap", src.week0.swap.swap],
     ["Matrix", src.week0.matrix.matrix],
-    ["Fibonacci", src.week1.fibonacci.fibonacci],
     ["LCM Calculator", src.week2.lcm.lcm]
 ]
 
-patterns_menu = [
+patternsmenu = [
     ["Cafe Menu", src.week0.cafemenu.print_menu1],
     ["Pyramid Animation", src.week0.animation.pyramid],
     ["InfoDB Lists/Loops", src.week1.infodb.driver],
@@ -35,12 +33,12 @@ def menu():
 
 def math_menu():
     title = "Math Submenu" + banner
-    buildMenu(title, math_menu)
+    buildMenu(title, mathmenu)
 
 
 def patterns_menu():
     title = "Patterns Submenu" + banner
-    buildMenu(title, patterns_menu)
+    buildMenu(title, patternsmenu)
 
 
 def buildMenu(banner, options):

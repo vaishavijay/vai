@@ -7,7 +7,7 @@ def lcm(x, y):
             return x
 
 
-num1 = 30
+num1 = 25
 num2 = 50
 
 print(str(lcm(num1, num2)))

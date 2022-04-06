@@ -14,7 +14,7 @@ class Fibonacci:
 
 
 fibo_of = Fibonacci()  # object instantiation and run __init__ method
-print(fibo_of(5))  # object running __call__ method
+print(fibo_of(10))  # object running __call__ method
 
 
 if __name__ == "__main__":
