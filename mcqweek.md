@@ -1,4 +1,4 @@
-# Proctored MCQ Week1
+# Proctored MCQ Week
 
 ## Study Plan for APCSP
 
