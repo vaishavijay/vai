@@ -14,5 +14,5 @@
 
 Study Reflection For The Week - Looked over past test corrections for review for MCQs this week and completed tasks for this week
 
-## Quiz Corrections: (Quiz 1: 38/50; Quiz 2: 40/50
-<p><iframe src="https://docs.google.com/document/d/1b9LW03CRd_kz9njJKFxbLuH1A4JgGPpfmwXr1J6d4ak/edit?usp=sharing0" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+## Quiz Corrections: (Quiz 1: 38/50; Quiz 2: 40/50)
+<p><iframe src="https://docs.google.com/document/d/1b9LW03CRd_kz9njJKFxbLuH1A4JgGPpfmwXr1J6d4ak/edit?usp=sharing0" frameborder="0" width="500" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
