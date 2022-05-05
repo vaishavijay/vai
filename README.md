@@ -3,9 +3,11 @@
 
 [Plans, Team, Jobs](https://github.com/vaishavijay/vaishavijay.github.io/issues/2)
 
-[Lists/Loops & Classy Functions](https://github.com/vaishavijay/vaishavijay.github.io/issues/1)
+[Lists/Loops & Classy Functions (https://github.com/vaishavijay/vaishavijay.github.io/issues/7)
 
-[Algorithmic Final](https://github.com/vaishavijay/vaishavijay.github.io/issues/3)
+[Accounts and Logins](https://github.com/vaishavijay/vaishavijay.github.io/issues/3)
+
+[Algorithmic Final](https://github.com/vaishavijay/vaishavijay.github.io/issues/1)
 
 [MCQ Week 1 Review Ticket](https://github.com/vaishavijay/vaishavijay.github.io/issues/4)
 
