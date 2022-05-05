@@ -3,9 +3,9 @@
 Welcome to my GitHub Page!!
 
 About:
------
 
-**Vaishavi Jayashankar: AP Computer Science Principals (Period 5, Naidu)**
+Vaishavi Jayashankar: AP Computer Science Principals (Period 5, Naidu)
+
 ----- 
 
 Review Tickets:
