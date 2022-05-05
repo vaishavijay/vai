@@ -3,7 +3,7 @@
 
 [Plans, Team, Jobs](https://github.com/vaishavijay/vaishavijay.github.io/issues/2)
 
-[Lists/Loops & Classy Functions (https://github.com/vaishavijay/vaishavijay.github.io/issues/7)
+[Lists/Loops & Classy Functions](https://github.com/vaishavijay/vaishavijay.github.io/issues/7)
 
 [Accounts and Logins](https://github.com/vaishavijay/vaishavijay.github.io/issues/3)
 
