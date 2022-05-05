@@ -15,3 +15,9 @@ Review Tickets:
 [MCQ Week 2 Review Ticket](https://github.com/vaishavijay/vaishavijay.github.io/issues/5)
 
 [MCQ Week 3 Review Ticket](https://github.com/vaishavijay/vaishavijay.github.io/issues/6)
+
+-----
+
+About:
+
+Vaishavi Jayashankar: AP Computer Science Principals (Period 5, Naidu)
