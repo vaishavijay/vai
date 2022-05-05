@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-Welcome to my GitHub Page!!
+Welcome to my GitHub Page!
 
 About:
 
