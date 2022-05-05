@@ -1,6 +1,16 @@
 {% include navigation.html %}
 
+Welcome to my GitHub Page!!
+
+About:
+-----
+
+**Vaishavi Jayashankar: AP Computer Science Principals (Period 5, Naidu)**
+----- 
+
 Review Tickets:
+-----
+
 
 [Plans, Team, Jobs](https://github.com/vaishavijay/vaishavijay.github.io/issues/2)
 
@@ -16,8 +26,3 @@ Review Tickets:
 
 [MCQ Week 3 Review Ticket](https://github.com/vaishavijay/vaishavijay.github.io/issues/6)
 
------
-
-About:
-
-Vaishavi Jayashankar: AP Computer Science Principals (Period 5, Naidu)
