@@ -1,8 +1,8 @@
 {% include navigation.html %}
 
-# Proctored MCQ Week 2
+# Proctored MCQ Week 3
 
-## Quiz Corrections: Quiz 3: 34/50:
+## Quiz Corrections: Quiz 5: 32/50:
 
 The following procedure is intended to return the value of x times y, where x and y are integers. Multiplication is implemented using repeated additions.![image](https://user-images.githubusercontent.com/85912486/167026146-294ae3f0-280a-40ee-bace-3d275e73cb14.png) For which of the following procedure calls does the procedure NOT return the intended value? Select two answers.
 - A: D, not C (For C's values, the procedure repeatedly adds -2 to result five times, resulting in the intended product -10)
@@ -57,3 +57,41 @@ A user enters a Web address in a browser, and a request for a file is sent to a 
 
 Which of the following is an example of an attack using a rogue access point? A. An unauthorized individual gains the ability to view network traffic by connecting to a network router that uses weak or no security measures. B. An unauthorized individual physically disconnects an exposed network router, making the network unavailable to some users. C. An unauthorized individual poses as a network administrator and attempts to trick a user into providing personal information. D. A group of unauthorized individuals overwhelms a network router with traffic, making it unavailable to some users.
 - A: D, not B (While disconnecting a router can be disruptive to users, it does not allow unauthorized individuals to intercept information transmitted on a network)
+
+The two code segments below are each intended to display the average of the numbers in the list One word, num List. Assume that One word, num List contains more than one value. ![image](https://user-images.githubusercontent.com/85912486/167028634-0d6aa498-8bd7-4208-8a21-d084d07a7669.png)Which of the following best describes the two code segments?
+- A: C, not B (Code segment I also displays the correct average)
+
+Which of the following best explains how a certificate authority is used in protecting data? A. A certificate authority certifies the safety of a particular Web site so that users know that it does not contain any viruses.. B. A certificate authority issues passwords that grant access to secure databases. C. A certificate authority maintains a secure database that maps all Web domain names to the IP addresses of the servers where the sites are hosted. D. A certificate authority verifies the authenticity of encryption keys used in secured communications.
+- A: D, not C (Certificate authorities do not verify the safety of Web sites)
+
+Consider the following code segment, where exam and presentation are integer variables and grade is a string variable.
+
+    IF((exam > 90) AND (presentation > 80))
+    {
+    grade ← "A"
+    }
+    IF((exam > 80) OR (presentation > 75))
+    {
+    grade ← "B"
+    }
+    ELSE
+    {
+    IF((exam > 70) OR (presentation > 60))
+    {
+    grade ← "C"
+    }
+    ELSE
+    {
+    IF(exam > 60)
+    {
+    grade ← "D"
+    }
+    ELSE
+    {
+    grade ← "F"
+    }
+    }
+    }
+
+Under which of the following conditions will the value "C" be assigned to the variable grade? A. When the value of exam is 70 and the value of presentation is 50. B. When the value of exam is 70 and the value of presentation is 80. C. When the value of exam is 80 and the value of presentation is 60. D. When the value of exam is 80 and the value of presentation is 80
+- A: C, not D (When the value of exam is 80 and the value of presentation is 80, the value of grade at the end of the code segment will be "B")
