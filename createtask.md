@@ -2,15 +2,11 @@
 
 # Create Task
 
-### Project - [4-Function Calculator](https://docs.google.com/document/d/1ihcfASxU-qed3BZCdALNmFjTqxmxcIAFpRq286g-K6c/edit?usp=sharing)
+### Project - [4-Function Calculator](https://drive.google.com/drive/u/1/folders/1M-7nVsiABIeq1B4vO8sew_Mgcr7SuroM)
 
-* Details - Running currently in project (Home -> Subject List -> Math Calculator) 
+* [**Written Response**](https://drive.google.com/file/d/1EJT0uSflpIwXGnFXc7g8cnrt3wuw_ADE/view?usp=sharing)
 
-* [**Written Response**](https://docs.google.com/document/d/1-cEOgEqU7CdsWWhsyQlTJNcKnc2usHczHN845HUrJl4/edit)
-
-* [**Create Task Video**](https://drive.google.com/file/d/1__l-X63cNrEr4FOH9hwNYXpQ8KkSDkqX/view?usp=sharing)
-
-* [**Notes**](https://docs.google.com/document/d/1Avc5kdhr4JB_pN7sum7et9n1Zrrovus6btT_LmoVAKU/edit?usp=sharing)
+* [**Create Task Video**](https://drive.google.com/file/d/1SFdObKChSk1gJySaHEJGf4IUF4Z-F9lF/view?usp=sharing)
 
 
 ## Create Task Guidelines
