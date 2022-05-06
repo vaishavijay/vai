@@ -22,4 +22,4 @@ Review Tickets:
 
 * [MCQ Week 2 Review Ticket](https://github.com/vaishavijay/vaishavijay.github.io/issues/5)
 
-* [MCQ Week 3 Review Ticket](https://github.com/vaishavijay/vaishavijay.github.io/issues/6)
+* [AP Testing Week 1](https://github.com/vaishavijay/vaishavijay.github.io/issues/6)
