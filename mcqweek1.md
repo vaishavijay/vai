@@ -62,3 +62,6 @@ An Internet service provider (ISP) is considering an update to its servers that 
 
 Which of the following is LEAST likely to occur as a result of the update?Average response time for user requests might decrease.Privacy of users might be negatively affected.Storage requirements for the servers might increase.Web sites that are not visited frequently might no longer be accessible to users.
 - A: D, not C (Storing several Web pages for every user of the ISP will take a significant amount of storage, since ISPs can serve thousands or millions of users.)
+
+------
+
