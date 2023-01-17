@@ -1,8 +1,8 @@
 {% include navigation.html %}
 
-**Welcome to my GitHub Page!**
+*Student Service Site**
 
-About: Vaishavi Jayashankar: (APCSP Period 5, Naidu)
+From Del Norte Students, to Del Norte Students
 
 ----- 
 
@@ -10,7 +10,7 @@ Review Tickets:
 -----
 
 
-* [Plans, Team, Jobs](https://github.com/vaishavijay/vaishavijay.github.io/issues/2)
+* [](https://github.com/vaishavijay/vaishavijay.github.io/issues/2)
 
 * [Lists/Loops & Classy Functions](https://github.com/vaishavijay/vaishavijay.github.io/issues/7)
 
