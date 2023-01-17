@@ -1,17 +1,16 @@
 {% include navigation.html %}
 
 # Student Calender
+<body>
 
 <div class="container">
-  <img src="Learning.banner.jpg" alt="Snow" style="width:100%;">
-  <div class="bottom-left">Bottom Left</div>
+  <img src="Learning.banner.jpg" alt="Book Banner" style="width:100%;">
   <div class="top-left">APCSA</div>
   <div class="top-right">Vaishavi Jayashankar</div>
   <div class="centered">Weekly Day Student Schedule</div>
 </div>
 
 <p>Note: Reloading the page resets the table</p>
-<body>
 
 <table style="width:100%">
   <tr>
