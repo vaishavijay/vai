@@ -1,15 +1,8 @@
 {% include navigation.html %}
 
-# Student Calender
+# Weekly Day Student Schedule
+![Book-Banner](images/Hi-Res-School-Photo-min.jpgHi-Res-School-Photo-min.jpg "Book-Banner")
 <body>
-
-<div class="container">
-  <img src="Learning.banner.jpg" alt="Book Banner" style="width:100%;">
-  <div class="top-left">APCSA</div>
-  <div class="top-right">Vaishavi Jayashankar</div>
-  <div class="centered">Weekly Day Student Schedule</div>
-</div>
-
 <p>Note: Reloading the page resets the table</p>
 
 <table style="width:100%">
@@ -46,10 +39,5 @@
 </table>
 
 <p>NOTE: reloading the page resets the table</p>
-
-<div>
-      <img src="/images//images/Hi-Res-School-Photo-min.jpg
-" alt="Field" style="width:100%">
-    </div>
 
 </body>
