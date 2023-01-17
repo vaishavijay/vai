@@ -2,7 +2,7 @@
 
 # AP Classes Database (DNHS)
 
-## Full Desc: [https://www.powayusd.com/en-US/Schools/HS/DNHS/Counseling/Course-Offerings]
+Full Desc: [https://www.powayusd.com/en-US/Schools/HS/DNHS/Counseling/Course-Offerings]
 
 | Class Name | Grades | Class Description | A-G Requirement |
 | :---: | :---: | :---: | :---: |
